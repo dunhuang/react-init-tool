@@ -1,10 +1,13 @@
 {
   "name": "react-init-tool",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "A easy tool for react developers to init a react project.",
-  "main": "webpack.config.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
+  },
+  "bin": {
+    "react-init-tool": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

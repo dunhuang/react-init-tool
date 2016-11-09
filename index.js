@@ -115,7 +115,12 @@ fs.writeFileSync(projectPath+'/src/js/app.js',appjs,{encoding:'utf-8'});
 
 console.log('Creating app.css...');
 fs.writeFileSync(projectPath+'/src/css/app.css','',{encoding:'utf-8'});
-console.log(projectName + 'Init succeeded.');
+
+console.log(projectName + ' init succeeded.');
+console.log('\nYou can do following steps:');
+console.log('    1.   cd ./'+projectName);
+console.log('    2.   npm install');
+console.log('    3.   npm start');
 
 // console.log('npm install packages...');
 // cp.exec('npm install --save-dev babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-0 css-loader style-loader webpack webpack-dev-server');
