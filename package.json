@@ -20,5 +20,9 @@
       "email": "shiyh2012@foxmail.com"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dunhuang/react-init-tool.git"
+  },
   "license": "ISC"
 }
