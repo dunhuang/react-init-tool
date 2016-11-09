@@ -1,0 +1,24 @@
+{
+  "name": "react-init-tool",
+  "version": "1.0.0",
+  "description": "A easy tool for react developers to init a react project.",
+  "main": "webpack.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "init"
+  ],
+  "author": "dunhuang",
+  "maintainers": [
+    {
+      "name": "Dunhuang",
+      "email": "shiyh2012@foxmail.com"
+    }
+  ],
+  "license": "ISC"
+}
