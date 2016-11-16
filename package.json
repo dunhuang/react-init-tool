@@ -1,6 +1,6 @@
 {
   "name": "react-init-tool",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A easy tool for react developers to init a react project.",
   "main": "index.js",
   "directories": {
