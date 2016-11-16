@@ -1,5 +1,5 @@
 #react-init-tool
-A easy tool for react developers to init a react project.
+An easy tool for react developers to init a react project.
 
 ##Usage
 install this module in global mode.
